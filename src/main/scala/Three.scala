@@ -17,7 +17,7 @@ object Three extends PApplet {
 
 }
 
-class Three extends PApplet{
+class Three extends PApplet {
 
   var r = 3.0
   var r2 = 0.3
@@ -26,6 +26,7 @@ class Three extends PApplet{
     size(500, 500)
     background(12, 65, 78)
     fill(12, 65, 78, 20)
+    fill(12, 65, 78)
     stroke(255, 202)
   }
 
